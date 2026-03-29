@@ -4,7 +4,7 @@ Hi 👋 My name is Sanika Babar
 Data Analyst and Full Stack Developer
 -------------------------------------
 
-* 🌍  I'm based in Sangli
+* 🌍  I'm based in Kolhapur
 * ✉️  You can contact me at [sanikababar47@gmail.com](mailto:sanikababar47@gmail.com)
 * 🧠  I'm currently learning Blockchain and IOT
 
